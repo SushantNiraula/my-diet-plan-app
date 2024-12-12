@@ -1,6 +1,6 @@
-// app/survey/page.tsx
-'use client';
-import SurveyForm from '@/app/components/SurveyForm' ; // Import the SurveyForm component
+"use client";
+
+import { SurveyForm } from "@/components/surveyForm";
 
 const SurveyPage = () => {
   return (
